@@ -47,11 +47,11 @@ Cloud-hosted static website
 
 # ☁️ Cloud Deployment Overview
 
-*Website hosted on Amazon S3 using static website hosting
+Website hosted on Amazon S3 using static website hosting
 
-*CloudFront used for secure HTTPS delivery and global performance
+CloudFront used for secure HTTPS delivery and global performance
 
-*Cloud resources configured following best practices
+Cloud resources configured following best practices
 <img width="1919" height="509" alt="s3-bucket" src="https://github.com/user-attachments/assets/aa54e36b-8047-4753-86a7-d5e578f37932" />
 <img width="1918" height="748" alt="s3-bucket-objects" src="https://github.com/user-attachments/assets/800cfbf9-8a3e-45d3-b26f-e728806be659" />
 <img width="1918" height="374" alt="Cloudfront" src="https://github.com/user-attachments/assets/53781898-f457-407b-add9-f9dcda7a13ab" />
