@@ -35,15 +35,15 @@ Amazon CloudFront (CDN & HTTPS)
 
 # ✨ Features
 
-*Responsive and clean UI
+Responsive and clean UI
 
-*Smooth scrolling navigation
+Smooth scrolling navigation
 
-*Scroll-based animations
+Scroll-based animations
 
-*Skills and project showcase
+Skills and project showcase
 
-*Cloud-hosted static website
+Cloud-hosted static website
 
 # ☁️ Cloud Deployment Overview
 
